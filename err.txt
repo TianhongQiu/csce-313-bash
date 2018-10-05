@@ -1,0 +1,5 @@
+total 64K
+-rw-rw-r-- 1 jonathan jonathan    3 Oct  1 21:32 >
+-rwxrwxr-x 1 jonathan jonathan  50K Oct  1 22:39 a.out
+-rw-rw-r-- 1 jonathan jonathan    0 Oct  1 22:39 err.txt
+-rw-rw-r-- 1 jonathan jonathan 5.3K Oct  1 22:39 Main.cpp
