@@ -1,9 +1,0 @@
-total 0
-dr-xr-xr-x 1 root root 0 Oct  5 10:39 abi
-dr-xr-xr-x 1 root root 0 Oct  5 10:39 debug
-dr-xr-xr-x 1 root root 0 Oct  5 10:24 dev
-dr-xr-xr-x 1 root root 0 Oct  5 10:23 fs
-dr-xr-xr-x 1 root root 0 Oct  5 10:23 kernel
-dr-xr-xr-x 1 root root 0 Oct  5 10:23 net
-dr-xr-xr-x 1 root root 0 Oct  5 10:39 user
-dr-xr-xr-x 1 root root 0 Oct  5 10:24 vm
